@@ -1,11 +1,16 @@
 # 📚 SQL Library Management System  
 
-## 🚀 Project Overview  
+## Project Overview  
 The SQL Library Management System is designed to manage and analyze data for a library. This project demonstrates the use of SQL queries to retrieve and manipulate data from a library database effectively.  
 
 ---
 
-## 🗂️ Features  
+## Back_Story of Project
+Managing a library efficiently requires structured data storage and retrieval for books, borrowers, and branches. As a Data Enthusiast, I wanted to optimize book availability tracking, borrower management, and inventory insights using SQL queries to solve real-world problems faced by libraries
+
+---
+
+## Features  
 This project provides solutions to the following:  
 1. Retrieve the number of copies of a specific book owned by a specific library branch.  
 2. Retrieve the number of copies of a specific book owned by each library branch.  
@@ -17,7 +22,7 @@ This project provides solutions to the following:
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 - **Database Schema**: Contains the structure of tables for books, library branches, borrowers, loans, etc.  
 - **SQL Queries**:  
   - Analytical queries addressing specific operational questions.  
@@ -26,7 +31,7 @@ This project provides solutions to the following:
 
 ---
 
-## 🔍 Key SQL Queries  
+## Key SQL Queries  
 ### 1️⃣ Book Copies by Branch  
 **Query**: Retrieve the number of copies of "The Lost Tribe" owned by the "Sharpstown" branch.  
 
@@ -50,10 +55,13 @@ This project provides solutions to the following:
 
 ---
 
-## 🛠️ Technology Stack  
-- **Database**: MySQL  
-- **Languages**: SQL  
+## Business Objectives 📊
+A. Optimize Book Availability: Track the number of copies per branch to ensure efficient book distribution.
+B. Enhance Borrower Management: Identify active and inactive borrowers to improve book circulation.
+C. Improve Inventory Insights: Understand book loan patterns and popular authors to enhance library operations
 
 ---
 
-Feel free to explore this project and contribute! Let me know if you have any feedback or suggestions! 🚀
+## Technology Stack  
+- **Database**: MySQL  
+- **Language**: SQL  
